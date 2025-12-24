@@ -1,0 +1,5 @@
+Host: 50.116.1.184 (scanner.nmap.org
+)STATUS: (up
+Porta 22⁄tcp -> 7.4
+Porta 70⁄tcp -> 
+Porta 80⁄tcp -> 2.4.6
