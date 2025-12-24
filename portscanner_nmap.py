@@ -1,3 +1,6 @@
+Este projeto é apenas para fins educacionais.
+Não utilize para escanear redes sem autorização.
+
 import nmap
 import datetime
 
